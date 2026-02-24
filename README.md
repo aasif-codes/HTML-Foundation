@@ -7,16 +7,16 @@ Large or complete projects are maintained in separate repositories.
 
 ## Technologies
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 ## Purpose
 
-Practice front-end fundamentals
+- Practice front-end fundamentals
 
-Test small ideas and concepts
+- Test small ideas and concepts
 
-Improve coding consistency through experimentation
+- Improve coding consistency through experimentation
