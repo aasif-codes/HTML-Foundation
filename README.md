@@ -1,22 +1,22 @@
-# Front-End Foundation
+# Front-End Practice Repository
 
-This repository contains my front-end practice files and learning exercises.
-It focuses on strengthening my fundamentals rather than building large projects.
+This repository contains my front-end learning and practice files created while studying HTML, CSS, and JavaScript.
+It mainly includes small experiments, code snippets, and short practice exercises used to understand core concepts.
 
-# Purpose
+Large or complete projects are maintained in separate repositories.
 
-Practice core web development concepts
+## Technologies
 
-Improve HTML structure
+HTML
 
-Experiment with CSS layouts and styling
+CSS
 
-Learn and apply basic JavaScript
+JavaScript
 
-# Technologies
+## Purpose
 
-HTML5
+Practice front-end fundamentals
 
-CSS3
+Test small ideas and concepts
 
-JavaScript (Basics)
+Improve coding consistency through experimentation
