@@ -33,7 +33,7 @@ console.log(test(6));
 function add(a,b)
 {
     return (a+b)
-    console.log(a+b)  // because return take over the fucntion bro 
+    console.log(a+b)  // you're not gonna work bro ,because return take over the fucntion 
 
 }
  sum = add(10,25)
@@ -99,6 +99,7 @@ if(add=999n)
 else {
     console.log ("wrong !")
 }
+
 
 
 
